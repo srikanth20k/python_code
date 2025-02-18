@@ -1,4 +1,0 @@
-object oriented programming 
--> Encapsulation 
--> Ingeritance
--> polymor
