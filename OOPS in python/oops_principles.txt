@@ -1,0 +1,5 @@
+object oriented programming 
+-> Encapsulation 
+-> Inheritance
+-> polymorphism
+-> Abstraction
